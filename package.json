@@ -1,0 +1,7 @@
+{
+  "name": "poke2",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
